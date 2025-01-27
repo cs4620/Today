@@ -10,4 +10,4 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 World
 
 ## Math
-Cross Product: vec u xx vec v={u_y*v_z-u_z*v_y, u_z*v_x-u_x*v_z, u_x*v_y-u_y*v_x}
+Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x * v_y - u_y * v_x}
