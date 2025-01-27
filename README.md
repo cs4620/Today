@@ -7,4 +7,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 ## Videos
 - What is a mesh? https://www.youtube.com/watch?v=IOe154tJSQA
 - World space city example: https://www.youtube.com/watch?v=YoHD9XEInc0 (Start around 2:00)
-World 
+World
+
+## Math
+Cross Product: vec u xx vec v={u_y*v_z-u_z*v_y, u_z*v_x-u_x*v_z, u_x*v_y-u_y*v_x}
