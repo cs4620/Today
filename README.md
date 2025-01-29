@@ -6,6 +6,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 
 ## Images
 [Rasterizing v Ray Tracing Explained](https://cdn.appuals.com/wp-content/uploads/2020/11/NV_Turing_Editors_Day_132-1536x864.png.webp)
+
 [Rasterizing v Ray Tracing Example](https://cdn.appuals.com/wp-content/uploads/2020/11/rtx-cornell-box-side-by-side-1536x432.jpg.webp)
 
 ## Videos
