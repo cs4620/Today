@@ -1,8 +1,10 @@
 # Today
 Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 
-## Modeling Resources
+## Modeling/Shading Resources
 [Tie Fighter schematic](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/diagram-illustration-for-the-tie-fighter-from-star-wars-jose-elias-sofia-pereira.jpg)
+
+[Checker Pattern](https://us.v-cdn.net/5021068/uploads/editor/ha/7frj09nru4zu.png)
 
 ## Images
 [Rasterizing v Ray Tracing Explained](https://cdn.appuals.com/wp-content/uploads/2020/11/NV_Turing_Editors_Day_132-1536x864.png.webp)
