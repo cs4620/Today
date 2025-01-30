@@ -9,6 +9,11 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 
 [Rasterizing v Ray Tracing Example](https://cdn.appuals.com/wp-content/uploads/2020/11/rtx-cornell-box-side-by-side-1536x432.jpg.webp)
 
+## Tools
+[Cross Product Visualizer](https://www.geogebra.org/m/psMTGDgc)
+
+[Cross Product Caluclator](https://www.wolframalpha.com/input/?i=cross+product+calculator)
+
 ## Videos
 - What is a mesh? https://www.youtube.com/watch?v=IOe154tJSQA
 - World space city example: https://www.youtube.com/watch?v=YoHD9XEInc0 (Start around 2:00)
