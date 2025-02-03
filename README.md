@@ -11,10 +11,20 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 
 [Rasterizing v Ray Tracing Example](https://cdn.appuals.com/wp-content/uploads/2020/11/rtx-cornell-box-side-by-side-1536x432.jpg.webp)
 
+## Textures
+[Head Texture](https://www.3dscanstore.com/hd-head-scans/hd-head-models)
+
+
 ## Tools
 [Cross Product Visualizer](https://www.geogebra.org/m/psMTGDgc)
 
 [Cross Product Caluclator](https://www.wolframalpha.com/input/?i=cross+product+calculator)
+
+[Map Projections 1](https://observablehq.com/@d3/projection-comparison)
+
+[Map Projections 2](https://observablehq.com/@d3/projection-transitions)
+
+[Map Projections 3](https://www.jasondavies.com/maps/transition/)
 
 ## Videos
 - What is a mesh? https://www.youtube.com/watch?v=IOe154tJSQA
