@@ -32,7 +32,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 - What is a mesh? https://www.youtube.com/watch?v=IOe154tJSQA
 - World space city example: https://www.youtube.com/watch?v=YoHD9XEInc0 (Start around 2:00)
 - Substance 3D Demo Reel https://www.youtube.com/watch?v=TzMHqw0Qp-s, also https://www.adobe.com/products/substance3d.html
-World
+- Millenium Falcon Trench Scene for rigid body animation: https://www.youtube.com/watch?v=ykXWRNZiI3M
 
 ## Math
 Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x * v_y - u_y * v_x}
