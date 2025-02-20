@@ -33,6 +33,10 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 - World space city example: https://www.youtube.com/watch?v=YoHD9XEInc0 (Start around 2:00)
 - Substance 3D Demo Reel https://www.youtube.com/watch?v=TzMHqw0Qp-s, also https://www.adobe.com/products/substance3d.html
 - Millenium Falcon Trench Scene for rigid body animation: https://www.youtube.com/watch?v=ykXWRNZiI3M
+- Sleeping Beauty for rotoscoping: https://www.youtube.com/watch?v=SNkjc6ok2KQ
+- Empire Strikes Back Battle of Hoth for go-motion: https://www.youtube.com/watch?v=J3u3731eGTM
+- Rancor for go-motion/deformation animation: https://www.youtube.com/watch?v=hx0tjP_Zx4w
+- Jurassic Park herd scene: https://www.youtube.com/watch?v=9v_UCB_qwPc 
 
 ## Math
 Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x * v_y - u_y * v_x}
