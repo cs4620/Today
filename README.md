@@ -42,3 +42,18 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 
 ## Math
 Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x * v_y - u_y * v_x}
+
+## Shader Frog
+- Unilluminated Shader: https://shaderfrog.com/app/view/3149?view=shader
+- Unilluminated Shader w/ variable (uniform) https://shaderfrog.com/app/view/3150
+- Normal Shader: https://shaderfrog.com/app/view/3151
+- Diffuse Shading Only: https://shaderfrog.com/app/view/3152?view=shader
+- Diffuse + Ambient Shading: https://shaderfrog.com/app/view/3153
+- Point Light (World Space Light): https://shaderfrog.com/app/view/3154
+- Dynamic (Time-based) Fragment Shader: https://shaderfrog.com/app/view/3155
+- UV Shader: https://shaderfrog.com/app/view/3156
+- Grid UV Shader: https://shaderfrog.com/app/view/3158
+- Vertex Distortion Based on UVS: https://shaderfrog.com/app/view/3159
+- Vertex Distortion Based on UVS (non-uniform): https://shaderfrog.com/app/view/3219
+- Christmas “Ornament” using fragment and vertex shaders: https://shaderfrog.com/app/view/3221
+
