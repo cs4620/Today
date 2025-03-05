@@ -55,5 +55,3 @@ Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x
 - Grid UV Shader: https://shaderfrog.com/app/view/3158
 - Vertex Distortion Based on UVS: https://shaderfrog.com/app/view/3159
 - Vertex Distortion Based on UVS (non-uniform): https://shaderfrog.com/app/view/3219
-- Christmas “Ornament” using fragment and vertex shaders: https://shaderfrog.com/app/view/3221
-
