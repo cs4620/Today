@@ -39,6 +39,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 - Jurassic Park herd scene: https://www.youtube.com/watch?v=9v_UCB_qwPc
 - Toy Story trailer for rasterizing: https://www.youtube.com/watch?v=v-PjgYDrg70
 - Cars snoozers for Ray Tracing: https://www.youtube.com/watch?v=tbAcQPvtgf0
+- Zoom dolly shot (zolly) for perspective: https://www.youtube.com/watch?v=7B2djGDnDO4
 
 ## Math
 Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x * v_y - u_y * v_x}
