@@ -55,3 +55,10 @@ Cross Product: vec u xx vec v={u_y * v_z - u_z * v_y, u_z * v_x - u_x * v_z, u_x
 - Grid UV Shader: https://shaderfrog.com/app/view/3158
 - Vertex Distortion Based on UVS: https://shaderfrog.com/app/view/3159
 - Vertex Distortion Based on UVS (non-uniform): https://shaderfrog.com/app/view/3219
+
+## History of Graphics
+- Cave Painting: https://en.wikipedia.org/wiki/Cave_painting#/media/File:Bestias11.JPG
+- Chinese Art (Orthographic): https://en.wikipedia.org/wiki/File:Song_Dynasty_Hydraulic_Mill_for_Grain.JPG
+- Incorrect Perspective: https://en.wikipedia.org/wiki/Flagellation_of_Christ_(Piero_della_Francesca)#/media/File:Piero_-_The_Flagellation.jpg
+- Early Pespective: https://en.wikipedia.org/wiki/The_Tribute_Money_(Masaccio)#/media/File:Masaccio7.jpg
+- Classic Correct Perspective: https://en.wikipedia.org/wiki/The_School_of_Athens#/media/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg
