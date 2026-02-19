@@ -36,6 +36,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 - Sleeping Beauty for rotoscoping: https://www.youtube.com/watch?v=SNkjc6ok2KQ
 - Empire Strikes Back Battle of Hoth for go-motion: https://www.youtube.com/watch?v=J3u3731eGTM
 - Rancor for go-motion/deformation animation: https://www.youtube.com/watch?v=hx0tjP_Zx4w
+- Abyss for early CGI: https://www.youtube.com/watch?v=XSLQ_94R4sc
 - Jurassic Park herd scene: https://www.youtube.com/watch?v=9v_UCB_qwPc
 - Toy Story trailer for rasterizing: https://www.youtube.com/watch?v=v-PjgYDrg70
 - Cars snoozers for Ray Tracing: https://www.youtube.com/watch?v=tbAcQPvtgf0
