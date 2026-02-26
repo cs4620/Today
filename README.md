@@ -38,6 +38,7 @@ Helpful, public information for teaching CSCI 4620/8626 at UNOmaha
 - Rancor for go-motion/deformation animation: https://www.youtube.com/watch?v=hx0tjP_Zx4w
 - Abyss for early CGI: https://www.youtube.com/watch?v=XSLQ_94R4sc
 - Jurassic Park herd scene: https://www.youtube.com/watch?v=9v_UCB_qwPc
+- Tron Solar Sail for Perlin Noise: https://www.youtube.com/watch?v=yN5TYdSqYVg
 - Toy Story trailer for rasterizing: https://www.youtube.com/watch?v=v-PjgYDrg70
 - Cars snoozers for Ray Tracing: https://www.youtube.com/watch?v=tbAcQPvtgf0
 - Zoom dolly shot (zolly) for perspective: https://www.youtube.com/watch?v=7B2djGDnDO4
